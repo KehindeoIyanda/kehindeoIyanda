@@ -1,6 +1,6 @@
 # Hi, I'm Kehinde Iyanda! 👋
 
-I am a passionate DevOps engineer with experience in Cloud computing, information security, automating infrastructures,building, scaling and facilitaing Agile applications.
+I am a passionate Linux learner with some experience in Cloud computing, information security, automating infrastructures, building, scaling and facilitating Agile applications.
 
 
 ## 🚀 About Me
